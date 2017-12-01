@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STARTMENU", "STARTMENU.csproj", "{351A905A-42AA-11BF-C5C7-DF6A0D9CAEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351A905A-42AA-11BF-C5C7-DF6A0D9CAEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351A905A-42AA-11BF-C5C7-DF6A0D9CAEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351A905A-42AA-11BF-C5C7-DF6A0D9CAEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351A905A-42AA-11BF-C5C7-DF6A0D9CAEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
